@@ -1,6 +1,6 @@
 {
    "subdomain": "semant",
-   "url": "69.197.135.204",
+   "url": "cname.vercel-dns.com.",
    "email": "contact@semant.is-a.dev",
-   "type": "A"
+   "type": "CNAME"
 }
